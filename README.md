@@ -9,7 +9,7 @@
 - Text input, multithreading, and app switching
 - Optional Internet Stack (PCI, E1000, IPv4, UDP)
 
-Bro compile it yourself,, you might need WSL (For windows users)
+Bro compile it yourself, why do you think i put a zip there?. you might need WSL (For windows users). To download wsl go to https://learn.microsoft.com/en-us/windows/wsl/install
 
 ## 🛠️ Build & Run
 ```bash
